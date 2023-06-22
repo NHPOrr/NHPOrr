@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NHPOrr
 - 👀 I’m interested in soft matter, scattering and crystallography. 
-- 🌱 I’m currently learning MatLab, Python (new to this!)
+- 🌱 I’m currently learning MatLab and Python 
 - 💞️ I’m looking to collaborate on crystal structure analysis methods (from particle coordinates) and small angle x-ray scattering (SAXS) analysis methods. 
 - 📫 How to reach me: nicholasorrchem@gmail.com
 
